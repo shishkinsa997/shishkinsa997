@@ -3,7 +3,7 @@
 
 ## Projects
 
-| Project                                                                                   | Demo                                                                                        |
+| Project                                                                                                                                                                                                               | Demo                                                                                        |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | [My CV](https://github.com/shishkinsa997/rsschool-cv)                                     | [Link](https://shishkinsa997.github.io/rsschool-cv/)                                        |
 | [Portfolio layout](https://github.com/shishkinsa997/portfolio)                            | [Link](https://rolling-scopes-school.github.io/shishkinsa997-JSFE2025Q3/portfolio/)         |
