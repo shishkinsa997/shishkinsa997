@@ -14,4 +14,6 @@
 | [Sandbox mini](https://github.com/shishkinsa997/sandbox-mini)                             | [Link](https://sandbox-mini.vercel.app/)                                                    |
 | [Esoft React task](https://github.com/shishkinsa997/esoft/tree/main/react_tasks)          | [Link](https://shishkinsa997.github.io/esoft/)                                              |
 | [Todo-react](https://github.com/shishkinsa997/todo-react)                                 | [Link](https://shishkinsa997.github.io/todo-react/)                                         |
+| [Meal Planner](https://github.com/shishkinsa997/meal-manager)                                 | [Link](https://shishkinsa997.github.io/meal-manager/)                                         |
+| [Gachi PractiCum](https://github.com/shishkinsa997/system)                                 | [Link](https://shishkinsa997.github.io/system/)                                         |
 
